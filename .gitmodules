@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:qaisar-qbatch/MERN-Auth-Crud/client.git
+[submodule "server"]
+	path = server
+	url = git@github.com:qaisar-qbatch/MERN-Auth-Crud/server.git
